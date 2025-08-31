@@ -1,0 +1,177 @@
+experiment ,run number ,Harvest-greedy ,Perception-accuracy ,types, final frequency of the trait %,mean frequency of the trait %
+1,1,15,99," sustainable, punishing",0,0.920448845
+1,1,15,99,"sustainable, non-punishing",1.323251418,5.384340461
+1,1,15,99,"greedy, non-punishing",97.92060491,92.31024066
+1,1,15,99,"greedy, punishing",0.756143667,1.384970032
+1,2,15,99," sustainable, punishing",0,1.103816945
+1,2,15,99,"sustainable, non-punishing",1.095890411,5.343406122
+1,2,15,99,"greedy, non-punishing",96.98630137,92.18061533
+1,2,15,99,"greedy, punishing",1.917808219,1.3721616
+1,3,15,99," sustainable, punishing",0,0.637011706
+1,3,15,99,"sustainable, non-punishing",1.385849745,4.66130986
+1,3,15,99,"greedy, non-punishing",97.15536105,93.34873214
+1,3,15,99,"greedy, punishing",1.458789205,1.352946298
+1,4,15,99," sustainable, punishing",0,0.772193529
+1,4,15,99,"sustainable, non-punishing",2.149681529,4.770988403
+1,4,15,99,"greedy, non-punishing",96.97452229,93.03498044
+1,4,15,99,"greedy, punishing",0.875796178,1.421837628
+1,5,15,99," sustainable, punishing",0,1.646091125
+1,5,15,99,"sustainable, non-punishing",1.222493888,5.197548762
+1,5,15,99,"greedy, non-punishing",98.53300733,91.75730405
+1,5,15,99,"greedy, punishing",0.244498778,1.399056059
+1,6,15,99," sustainable, punishing",0,0.875155916
+1,6,15,99,"sustainable, non-punishing",1.016949153,5.067355559
+1,6,15,99,"greedy, non-punishing",97.96610169,92.59695095
+1,6,15,99,"greedy, punishing",1.016949153,1.460537571
+1,7,15,99," sustainable, punishing",0.111111111,1.550857017
+1,7,15,99,"sustainable, non-punishing",2.555555556,6.553037611
+1,7,15,99,"greedy, non-punishing",96.11111111,90.47683266
+1,7,15,99,"greedy, punishing",1.222222222,1.419272709
+1,8,15,99," sustainable, punishing",0,6.795080021
+1,8,15,99,"sustainable, non-punishing",0.557620818,7.043654381
+1,8,15,99,"greedy, non-punishing",98.88475836,84.84297123
+1,8,15,99,"greedy, punishing",0.557620818,1.318294364
+2,1,14,90," sustainable, punishing",0,1.192060411
+2,1,14,90,"sustainable, non-punishing",1.498929336,5.581350339
+2,1,14,90,"greedy, non-punishing",97.64453961,91.99199452
+2,1,14,90,"greedy, punishing",0.856531049,1.234594727
+2,2,14,90," sustainable, punishing",0,1.607702698
+2,2,14,90,"sustainable, non-punishing",2.099236641,6.417875066
+2,2,14,90,"greedy, non-punishing",96.61259542,90.75460415
+2,2,14,90,"greedy, punishing",1.288167939,1.219818082
+2,3,14,90," sustainable, punishing",0,0.926157162
+2,3,14,90,"sustainable, non-punishing",1.989683125,5.209199898
+2,3,14,90,"greedy, non-punishing",97.12601326,92.6569901
+2,3,14,90,"greedy, punishing",0.884303611,1.207652837
+2,4,14,90," sustainable, punishing",0,1.036342489
+2,4,14,90,"sustainable, non-punishing",0.659340659,5.06228396
+2,4,14,90,"greedy, non-punishing",98.68131868,92.5893728
+2,4,14,90,"greedy, punishing",0.659340659,1.312000752
+2,5,14,90," sustainable, punishing",0,0.947643038
+2,5,14,90,"sustainable, non-punishing",1.785714286,5.812805344
+2,5,14,90,"greedy, non-punishing",97.81746032,91.9515833
+2,5,14,90,"greedy, punishing",0.396825397,1.287968322
+2,6,14,90," sustainable, punishing",0,0.753018554
+2,6,14,90,"sustainable, non-punishing",1.09460516,4.907434867
+2,6,14,90,"greedy, non-punishing",97.34167318,93.10665852
+2,6,14,90,"greedy, punishing",1.563721658,1.23288806
+2,7,14,90," sustainable, punishing",0,1.491789693
+2,7,14,90,"sustainable, non-punishing",1.583949314,6.326575216
+2,7,14,90,"greedy, non-punishing",96.72650475,90.92087837
+2,7,14,90,"greedy, punishing",1.689545935,1.260756717
+2,8,14,90," sustainable, punishing",0.046707146,1.392347527
+2,8,14,90,"sustainable, non-punishing",1.774871555,6.595344538
+2,8,14,90,"greedy, non-punishing",96.68379262,90.79124181
+2,8,14,90,"greedy, punishing",1.494628678,1.221066121
+3,1,13,70," sustainable, punishing",0,1.25755535
+3,1,13,70,"sustainable, non-punishing",0.456621005,6.071919122
+3,1,13,70,"greedy, non-punishing",98.17351598,91.49115817
+3,1,13,70,"greedy, punishing",1.369863014,1.179367355
+3,2,13,70," sustainable, punishing",0,1.373880955
+3,2,13,70,"sustainable, non-punishing",1.534883721,6.678739872
+3,2,13,70,"greedy, non-punishing",97.53488372,90.7699526
+3,2,13,70,"greedy, punishing",0.930232558,1.177426569
+3,3,13,70," sustainable, punishing",0,0.876713925
+3,3,13,70,"sustainable, non-punishing",0.62305296,5.808122452
+3,3,13,70,"greedy, non-punishing",98.75389408,92.10024554
+3,3,13,70,"greedy, punishing",0.62305296,1.214918078
+3,4,13,70," sustainable, punishing",0,0.754395891
+3,4,13,70,"sustainable, non-punishing",0.471698113,5.844481826
+3,4,13,70,"greedy, non-punishing",99.52830189,92.22489271
+3,4,13,70,"greedy, punishing",0,1.176229578
+4,1,12,60," sustainable, punishing",0.036509675,1.207572543
+4,1,12,60,"sustainable, non-punishing",3.139832055,6.421222919
+4,1,12,60,"greedy, non-punishing",95.36327127,91.21727877
+4,1,12,60,"greedy, punishing",1.460387003,1.153925771
+4,2,12,60," sustainable, punishing",0,1.180215635
+4,2,12,60,"sustainable, non-punishing",0.224215247,6.452827138
+4,2,12,60,"greedy, non-punishing",99.77578475,91.20664704
+4,2,12,60,"greedy, punishing",0,1.160310185
+4,3,12,60," sustainable, punishing",0,1.284092887
+4,3,12,60,"sustainable, non-punishing",0,6.96302839
+4,3,12,60,"greedy, non-punishing",99.6124031,90.53195596
+4,3,12,60,"greedy, punishing",0.387596899,1.22092276
+4,4,12,60," sustainable, punishing",0,1.844989985
+4,4,12,60,"sustainable, non-punishing",0.432900433,8.141081745
+4,4,12,60,"greedy, non-punishing",98.91774892,88.82997544
+4,4,12,60,"greedy, punishing",0.649350649,1.183952828
+5,1,11,50," sustainable, punishing",0,2.087185151
+5,1,11,50,"sustainable, non-punishing",0.299401198,9.177141583
+5,1,11,50,"greedy, non-punishing",97.90419162,87.61395642
+5,1,11,50,"greedy, punishing",1.796407186,1.12171685
+5,2,11,50," sustainable, punishing",0.093574548,2.431982706
+5,2,11,50,"sustainable, non-punishing",2.089831566,11.06029475
+5,2,11,50,"greedy, non-punishing",96.6625078,85.37664391
+5,2,11,50,"greedy, punishing",1.154086089,1.131078629
+5,3,11,50," sustainable, punishing",0,2.504871738
+5,3,11,50,"sustainable, non-punishing",0.920598389,10.31953432
+5,3,11,50,"greedy, non-punishing",98.73417722,86.08679157
+5,3,11,50,"greedy, punishing",0.345224396,1.088802375
+5,4,11,50," sustainable, punishing",0.233022636,1.53418731
+5,4,11,50,"sustainable, non-punishing",1.7310253,8.060310729
+5,4,11,50,"greedy, non-punishing",96.57123835,89.30607194
+5,4,11,50,"greedy, punishing",1.464713715,1.099430024
+5,5,11,50," sustainable, punishing",0,1.228702451
+5,5,11,50,"sustainable, non-punishing",1.957295374,8.216101196
+5,5,11,50,"greedy, non-punishing",96.76749703,89.47128289
+5,5,11,50,"greedy, punishing",1.275207592,1.083913468
+5,6,11,50," sustainable, punishing",0,2.555655569
+5,6,11,50,"sustainable, non-punishing",1.655629139,9.498545123
+5,6,11,50,"greedy, non-punishing",96.63355408,86.85173684
+5,6,11,50,"greedy, punishing",1.710816777,1.094062467
+5,7,11,50," sustainable, punishing",0.251889169,1.924813248
+5,7,11,50,"sustainable, non-punishing",1.007556675,9.196032249
+5,7,11,50,"greedy, non-punishing",97.22921914,87.74665427
+5,7,11,50,"greedy, punishing",1.511335013,1.13250023
+5,8,11,50," sustainable, punishing",0.092165899,4.612461899
+5,8,11,50,"sustainable, non-punishing",3.133640553,13.33493482
+5,8,11,50,"greedy, non-punishing",95.89861751,80.97656226
+5,8,11,50,"greedy, punishing",0.875576037,1.076041018
+6,1,10,40," sustainable, punishing",0,1.447962583
+6,1,10,40,"sustainable, non-punishing",0.8,10.80287455
+6,1,10,40,"greedy, non-punishing",98.93333333,86.43678191
+6,1,10,40,"greedy, punishing",0.266666667,1.312380955
+6,2,10,40," sustainable, punishing",0,1.484763673
+6,2,10,40,"sustainable, non-punishing",1.840490798,8.623430643
+6,2,10,40,"greedy, non-punishing",97.85276074,88.5370445
+6,2,10,40,"greedy, punishing",0.306748466,1.354761181
+6,3,10,40," sustainable, punishing",0,1.466617884
+6,3,10,40,"sustainable, non-punishing",1.904761905,9.359333618
+6,3,10,40,"greedy, non-punishing",96.58730159,87.85427501
+6,3,10,40,"greedy, punishing",1.507936508,1.319773489
+6,4,10,40," sustainable, punishing",0.148920328,2.220836028
+6,4,10,40,"sustainable, non-punishing",1.191362621,10.45181309
+6,4,10,40,"greedy, non-punishing",97.24497394,85.96884943
+6,4,10,40,"greedy, punishing",1.414743112,1.358501452
+6,5,10,40," sustainable, punishing",0,1.856460581
+6,5,10,40,"sustainable, non-punishing",0.930232558,8.721514498
+6,5,10,40,"greedy, non-punishing",98.60465116,88.12244019
+6,5,10,40,"greedy, punishing",0.465116279,1.299584729
+6,6,10,40," sustainable, punishing",0,2.158489144
+6,6,10,40,"sustainable, non-punishing",3.265107212,10.6382753
+6,6,10,40,"greedy, non-punishing",94.78557505,85.94318177
+6,6,10,40,"greedy, punishing",1.949317739,1.260053791
+6,7,10,40," sustainable, punishing",0,2.037169775
+6,7,10,40,"sustainable, non-punishing",2.631578947,10.30673143
+6,7,10,40,"greedy, non-punishing",94.52510587,86.41554422
+6,7,10,40,"greedy, punishing",2.843315185,1.240554578
+6,8,10,40," sustainable, punishing",0,1.659884133
+6,8,10,40,"sustainable, non-punishing",2.939804013,9.518207035
+6,8,10,40,"greedy, non-punishing",96.68688754,87.53792635
+6,8,10,40,"greedy, punishing",0.373308446,1.283982478
+7,1,9,30," sustainable, punishing",0.115640358,1.654351717
+7,1,9,30,"sustainable, non-punishing",4.394333622,11.62999479
+7,1,9,30,"greedy, non-punishing",93.52413992,85.13757478
+7,1,9,30,"greedy, punishing",1.965886094,1.578078718
+7,2,9,30," sustainable, punishing",0.689655172,2.34722152
+7,2,9,30,"sustainable, non-punishing",3.034482759,13.77905509
+7,2,9,30,"greedy, non-punishing",94.62068966,82.24322673
+7,2,9,30,"greedy, punishing",1.655172414,1.630496665
+7,3,9,30," sustainable, punishing",0.083542189,2.047053534
+7,3,9,30,"sustainable, non-punishing",4.344193818,14.76415446
+7,3,9,30,"greedy, non-punishing",92.95460874,81.53388327
+7,3,9,30,"greedy, punishing",2.617655249,1.654908734
+7,4,9,30," sustainable, punishing",0,3.116930532
+7,4,9,30,"sustainable, non-punishing",4.63800905,12.74879107
+7,4,9,30,"greedy, non-punishing",94.45701357,82.44228229
+7,4,9,30,"greedy, punishing",0.904977376,1.691996112
