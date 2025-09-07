@@ -47,10 +47,10 @@ class Patch:
 
 class AgentModel:
     def __init__(self, width=112, height=112,
-                 initial_agents=80, percent_cooperators=50, percent_conditionals=20,
+                 initial_agents=80, percent_cooperators=60, percent_conditionals=10,
                  patch_width=4, gap_size=20,
                  carrying_capacity=10, growth_rate=0.2,
-                 living_costs=1, dispersal_cost=8, group_dispersal_range=30,
+                 living_costs=1, dispersal_cost=8, group_dispersal_range=50,
                  mutation_rate=0.0, cost_child=10,
                  results_prefix="simulation_results", random_seed=None,
                  debug_mode=True):
@@ -783,10 +783,10 @@ def run_simulation_with_params():
 
     defaults = {
         "width": 112, "height": 112, "initial_agents": 80,
-        "percent_cooperators": 50, "percent_conditionals": 20,
+        "percent_cooperators": 60, "percent_conditionals": 10,
         "patch_width": 4, "gap_size": 20, "carrying_capacity": 10,
         "growth_rate": 0.2, "living_costs": 1, "dispersal_cost": 8,
-        "group_dispersal_range": 30, "mutation_rate": 0.0,
+        "group_dispersal_range": 50, "mutation_rate": 0.0,
         "cost_child": 10, "steps": 1000, "steps_per_frame": 1,
         "random_seed": "", "results_prefix": "enhanced_simulation"
     }
@@ -940,4 +940,5 @@ def run_simulation_with_params():
 
 if __name__ == "__main__":
     logger.info("Starting Enhanced Agent-Based Model")
+
     run_simulation_with_params()
