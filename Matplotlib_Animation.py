@@ -639,7 +639,7 @@ class AgentModel:
         plt.close()
 
 # ---------------- Enhanced Animation ----------------
-def animate_simulation(model, steps=1000, steps_per_frame=1, interval=100, show_energy=False):
+def animate_simulation(model, steps=2000, steps_per_frame=1, interval=100, show_energy=False):
     """Enhanced animation with better performance but original visual style"""
     fig, (ax1, ax2) = plt.subplots(1, 2, figsize=(14, 7))
 
@@ -787,7 +787,7 @@ def run_simulation_with_params():
         "patch_width": 4, "gap_size": 20, "carrying_capacity": 10,
         "growth_rate": 0.2, "living_costs": 1, "dispersal_cost": 8,
         "group_dispersal_range": 50, "mutation_rate": 0.0,
-        "cost_child": 10, "steps": 1000, "steps_per_frame": 1,
+        "cost_child": 10, "steps": 2000, "steps_per_frame": 1,
         "random_seed": "", "results_prefix": "enhanced_simulation"
     }
 
@@ -942,4 +942,5 @@ if __name__ == "__main__":
     logger.info("Starting Enhanced Agent-Based Model")
 
     run_simulation_with_params()
+
 
