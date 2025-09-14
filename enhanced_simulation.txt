@@ -1,0 +1,37 @@
+Enhanced Simulation Results
+
+Parameters:
+  width: 112
+  height: 112
+  initial_agents: 80
+  percent_cooperators: 50.0
+  percent_conditionals: 20.0
+  patch_width: 4
+  gap_size: 20
+  carrying_capacity: 10.0
+  growth_rate: 0.2
+  living_costs: 1.0
+  dispersal_cost: 8.0
+  group_dispersal_range: 50.0
+  mutation_rate: 0.0
+  cost_child: 10.0
+  results_prefix: enhanced_simulation
+  random_seed: None
+
+Performance Metrics:
+  Total runtime: 2807.91 seconds
+  Total moves: 301699
+  Loop prevention moves: 290652
+  Loop prevention ratio: 0.963
+
+Final Results:
+Number of Steps: 2001
+Cooperators: 0
+Conditionals: 135
+Defectors: 0
+Total Resources: 1172.83
+
+Migration Statistics:
+  Cooperator - Deaths: 134, Successful: 6
+  Conditional - Deaths: 626, Successful: 137
+  Defector - Deaths: 389, Successful: 0
