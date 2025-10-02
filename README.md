@@ -22,8 +22,8 @@ This repository contains Python and NetLogo simulations based on the paper "The 
 ### 🐍 Python version (Matplotlib animation)
 
 #### Prerequisites
-- Python **3.7+**  
-- Required packages: `numpy`, `matplotlib`, `scipy`  
+1. Python **3.7+**  
+2. Required packages: `numpy`, `matplotlib`, `scipy`  
 
 
 ## Citation
